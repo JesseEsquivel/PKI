@@ -1,1 +1,2 @@
-# A collection of Public Key Infrastructure Scripts that have come in handy over the years.
+# Public Key Infrastructure 
+A collection of scripts that have come in handy over the years.
